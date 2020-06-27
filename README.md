@@ -1,6 +1,6 @@
 # crank_ConnectingRod
 
-The purpose of this is determining the operating moment of non-eccentric simple crank-connecting rod mechanism
+Determining the operating moment of non-eccentric simple crank-connecting rod mechanism under constant piston force
 
 To determine the moment, locations, outer forces and outer moments for every part of the mechanism is needed.
 
